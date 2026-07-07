@@ -32,5 +32,4 @@ storage/
 *.log
 
 # Plans / Specs
-plans/
 .deepseek/
